@@ -4,6 +4,8 @@ Basic knowledge of python
 ## Lesson
 - [第一个程序](1/helloworld.md)
 - [Python基础-数据类型](2/basic.md)
+- [Python基础-list map](3/list.md)
+- [循环](4/for.md)
 - [函数]
 - [模块]
 - [对象]
