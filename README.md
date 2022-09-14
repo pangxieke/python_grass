@@ -7,6 +7,6 @@ Basic knowledge of python
 - [Python基础-list map](3/list.md)
 - [循环](4/for.md)
 - [函数](5/func.md)
-- [模块]
+- [模块](6/module.md)
 - [对象]
 - [Web开发]
